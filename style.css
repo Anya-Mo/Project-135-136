@@ -1,0 +1,50 @@
+body {
+    font-family: 'Annie Use Your Telescope', cursive;
+    background-size: cover;
+    background-position: center;
+}
+.heading {
+    font-size: 30px;
+    background-color: #82ac85;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 3px;
+}
+#note {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+#start_button {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #e2cfc9;
+}
+#status {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #bfd8c4;
+}
+#number_of_objects {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #d1aca5;
+}
+.copy_right_footer {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #a9c7ac;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    text-align: center;
+    line-height: 2;
+}
+canvas {
+    border: 3px solid black;
+    margin-top: 90px;
+}
